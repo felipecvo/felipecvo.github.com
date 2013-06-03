@@ -1,0 +1,12 @@
+{
+  "name": "felipecvo.github.com",
+  "version": "1.0.0",
+  "main": "./path/to/main.css",
+  "directory": "js/vendor",
+  "dependencies": {
+    "jquery": "1.8.3",
+    "normalize-css": "*",
+    "bootstrap": "2.2.2",
+    "modernizr": "2.6.2"
+  }
+}
